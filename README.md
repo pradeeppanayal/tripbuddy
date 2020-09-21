@@ -1,16 +1,57 @@
-# tripbuddyapp
+# TripBuddy
 
-A new Flutter project.
+TripBuddy is a platform in which users can create groups to share and track location
 
-## Getting Started
+# The Idea
 
-This project is a starting point for a Flutter application.
+This application is designed and developed to help people, who travels as a team. Any person can create a group and invite other friends or family to join the group. The actual location* of the group members will be shared on a single page. 
 
-A few resources to get you started if this is your first Flutter project:
+Let’s make this happen with "[TripBuddy]".
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Features!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - Provision to create groups
+  - One click join
+  - Password protected, private and public groups
+  - Baterry friendly 
+  - On demand sharing, no default sharing
+  - No ad
+  - It is free
+
+
+
+### Tech
+
+TripBuddy uses/used follwing techs and services
+
+* Google Map : it's all about maps 
+* Google Authentication: We no need to worry about the authentication and authorization, let the expert do.
+* Flutter: The development platform
+* Firebase: Server and Database
+* flaticon.com : Icon curtesy
+* resizeimage.net : Used to resize images to fit different platforms
+* Medium.com : To fix marker issue in differnt platforms
+* Stack Overflow : We are developers
+* GitHub : Where we save our source code
+
+### Download
+
+TripBuddy app can be dowloaded from [Google Play][TripBuddyApp].
+
+## License
+
+GNU GENERAL PUBLIC LICENSE
+
+## Contact
+
+* Email : holdhandinfo@gmail.com
+* Website: [Visit Us][TripBuddy]
+
+
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [TripBuddyApp]: <https://play.google.com/store/apps/details?id=com.holdhand.tripbuddyapp>
+   [TripBuddy]: <https://sites.google.com/view/holdhand-tripbuddy/home>
